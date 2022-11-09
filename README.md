@@ -54,4 +54,15 @@ ___
 //*[@type = "submit"]
 //*[contains(@class, "ButtonBase")]
 ```
+## Subtask 2: Adding selectors to project
+
+It`s done! You can check it via link https://github.com/Irgey/challenge_portfolio.serhii/blob/c55529583666d42df6711ffee92231484e7b841d/pages/login_page.py
+
+## Subtask 3: Adding a new file
+
+It`s done! You can check it via link https://github.com/Irgey/challenge_portfolio.serhii/blob/c55529583666d42df6711ffee92231484e7b841d/pages/dashboard.py
+
+## Subtask 4: Adding a new file- add a match form
+
+It`s done! You can check it via link https://github.com/Irgey/challenge_portfolio.serhii/blob/c55529583666d42df6711ffee92231484e7b841d/pages/add_players_page.py
 
