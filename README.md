@@ -50,7 +50,7 @@ ___
 **sign_in_button_xpath**
 ___
 ```commandline
-//*/button
+//*[text()='Sign in']
 //*[@type = "submit"]
 //*[contains(@class, "ButtonBase")]
 ```
