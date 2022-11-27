@@ -18,7 +18,7 @@ class Dashboard(BasePage):
     last_created_player_hyperlink_xpath = "//*/a[2]"
 
     def title_page(self):
-        time.sleep(5)
+        self.wait_for_element_to_be_clickable(self.logo_scouts_panel_xpath)
         assert self.get_page_title(self.dashboard_url) == self.expected_title
 
     def click_on_add_player_button(self):
